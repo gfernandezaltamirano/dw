@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+  background-color: yellow;
+  color: black;
+}
+p:nth-last-child(even) {
+    background-color: brown;
+    color: blue;
+}
+p:nth-child(odd){
+    background-color: darkolivegreen;
+    color: steelblue;
+}
+h3 {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: tomato;
+}

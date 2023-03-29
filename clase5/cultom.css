@@ -1,0 +1,24 @@
+h3{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+    background-color: tomato;
+    color: white;
+}
+h3{
+    padding: 20px 10px 30px 5px;
+    margin: 0px 0px 32px 0px;
+}
+p{
+    margin-bottom: 32px;
+    padding: 20px 48px;
+    text-align: left;
+}
+figure{
+    text-align: center;
+    background-color: rgb(185, 67, 67);
+}
+img{
+    width: 20%;
+    min-width: 300px;
+}

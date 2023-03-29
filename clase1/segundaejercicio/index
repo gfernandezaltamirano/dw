@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Ejemplo</title>
+    </head>
+<body>
+    <h1>Título 1</h1>
+    <h2>Título 2</h2>
+    <h3>Título 3</h3>
+    <h4>Título 2</h4>
+    <h5>Título 2</h5>
+    <h6>Título 2</h6>
+    <h7>Titulo 7 (como no existe, no supone ningún cambio)</h7>
+    <p>Además, los títulos pueden recibir indicaciones de alineación, como en los siguientes ejemplos</p>
+    <h3 align="center">Título centrado</h3>
+    <h3 align="right">Título a la derecha</h3>
+    <h3>Los meses de primavera</h3>
+</html>
